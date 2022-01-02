@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jarvin-N
-- 👀 I program in lua, java, php and python. 
+- 👀 I program in lua, java, python and c. 
 - 🌱 I’m currently learning computer science at Queens U.
-- 📫 You can reach me on discord at Jarvin#5808
+
 
 <!---
 Jarvin-N/Jarvin-N is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
