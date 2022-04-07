@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Jarvin-N
-- 👀 I program in lua, java, python and c. 
-- 🌱 I’m currently learning computer science at Queens U.
+-  Hi, I’m @Jarvin-N
+- I program in Lua, Java, Python and C. 
+- I’m currently learning computer science at Queens U.
 
 
 <!---
